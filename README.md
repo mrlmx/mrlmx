@@ -5,7 +5,7 @@
 - 📫 How to reach me: Gmail(bXJsaW1pbmd4aW5AZ21haWwuY29t)
 - ⚡ Fun fact: I am a chef
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrlmx&count_private=true&show_icons=true&theme=graywhite&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrlmx&count_private=true&show_icons=true&theme=graywhite&hide=issues,contribs)](https://github.com/mrlmx/blog)
 
 <!--
 **mrlmx/mrlmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
