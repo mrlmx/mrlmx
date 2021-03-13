@@ -1,6 +1,6 @@
 # Hi 🤘
 
-- 🔭 I’m currently working on weimob
+- 🔭 I’m currently working on dewu
 - 🌱 I’m currently learning next.js
 - 📫 How to reach me: Gmail(bXJsaW1pbmd4aW5AZ21haWwuY29t)
 - ⚡ Fun fact: I am a chef
